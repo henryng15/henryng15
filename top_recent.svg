@@ -40,7 +40,7 @@
           font-weight="600"
           fill="#f85149"
           font-family="Inter, system-ui, -apple-system, Helvetica Neue, Arial, sans-serif">
-      571. Find Median Given Frequency of Numbers
+      579. Find Culmulative Salary of an Employee
     </text>
   
     <text x="30" y="126"
@@ -48,15 +48,15 @@
           font-weight="600"
           fill="#f85149"
           font-family="Inter, system-ui, -apple-system, Helvetica Neue, Arial, sans-serif">
-      579. Find Culmulative Salary of an Employee
+      601. Human Traffic of Stadium
     </text>
   
     <text x="30" y="162"
           font-size="17"
           font-weight="600"
-          fill="#f85149"
+          fill="#d29922"
           font-family="Inter, system-ui, -apple-system, Helvetica Neue, Arial, sans-serif">
-      601. Human Traffic of Stadium
+      3808. Find Emotionally Consistent Users
     </text>
   
 
@@ -65,7 +65,7 @@
         font-size="12"
         fill="#8b949e"
         font-family="Inter, system-ui, -apple-system, Helvetica Neue, Arial, sans-serif">
-    Updated 2026-02-09 13:03 UTC
+    Updated 2026-02-10 02:11 UTC
   </text>
 
 </svg>
