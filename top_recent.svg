@@ -38,25 +38,25 @@
     <text x="30" y="90"
           font-size="17"
           font-weight="600"
-          fill="#f85149"
+          fill="#d29922"
           font-family="Inter, system-ui, -apple-system, Helvetica Neue, Arial, sans-serif">
-      579. Find Culmulative Salary of an Employee
+      215. Kth Largest Element in an Array
     </text>
   
     <text x="30" y="126"
           font-size="17"
           font-weight="600"
-          fill="#f85149"
+          fill="#3fb950"
           font-family="Inter, system-ui, -apple-system, Helvetica Neue, Arial, sans-serif">
-      601. Human Traffic of Stadium
+      1046. Last Stone Weight
     </text>
   
     <text x="30" y="162"
           font-size="17"
           font-weight="600"
-          fill="#d29922"
+          fill="#3fb950"
           font-family="Inter, system-ui, -apple-system, Helvetica Neue, Arial, sans-serif">
-      3808. Find Emotionally Consistent Users
+      703. Kth Largest Element in a Stream
     </text>
   
 
@@ -65,7 +65,7 @@
         font-size="12"
         fill="#8b949e"
         font-family="Inter, system-ui, -apple-system, Helvetica Neue, Arial, sans-serif">
-    Updated 2026-04-13 02:29 UTC
+    Updated 2026-04-13 13:21 UTC
   </text>
 
 </svg>
