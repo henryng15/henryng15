@@ -38,9 +38,9 @@
     <text x="30" y="90"
           font-size="17"
           font-weight="600"
-          fill="#3fb950"
+          fill="#d29922"
           font-family="Inter, system-ui, -apple-system, Helvetica Neue, Arial, sans-serif">
-      703. Kth Largest Element in a Stream
+      347. Top K Frequent Elements
     </text>
   
     <text x="30" y="126"
@@ -48,15 +48,15 @@
           font-weight="600"
           fill="#d29922"
           font-family="Inter, system-ui, -apple-system, Helvetica Neue, Arial, sans-serif">
-      973. K Closest Points to Origin
+      78. Subsets
     </text>
   
     <text x="30" y="162"
           font-size="17"
           font-weight="600"
-          fill="#d29922"
+          fill="#f85149"
           font-family="Inter, system-ui, -apple-system, Helvetica Neue, Arial, sans-serif">
-      347. Top K Frequent Elements
+      90. Subsets II
     </text>
   
 
@@ -65,7 +65,7 @@
         font-size="12"
         fill="#8b949e"
         font-family="Inter, system-ui, -apple-system, Helvetica Neue, Arial, sans-serif">
-    Updated 2026-04-14 02:23 UTC
+    Updated 2026-04-14 13:20 UTC
   </text>
 
 </svg>
