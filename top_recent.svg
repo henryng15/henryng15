@@ -40,7 +40,7 @@
           font-weight="600"
           fill="#d29922"
           font-family="Inter, system-ui, -apple-system, Helvetica Neue, Arial, sans-serif">
-      78. Subsets
+      208. Implement Trie (Prefix Tree)
     </text>
   
     <text x="30" y="126"
@@ -48,7 +48,7 @@
           font-weight="600"
           fill="#d29922"
           font-family="Inter, system-ui, -apple-system, Helvetica Neue, Arial, sans-serif">
-      90. Subsets II
+      994. Rotting Oranges
     </text>
   
     <text x="30" y="162"
@@ -56,7 +56,7 @@
           font-weight="600"
           fill="#d29922"
           font-family="Inter, system-ui, -apple-system, Helvetica Neue, Arial, sans-serif">
-      208. Implement Trie (Prefix Tree)
+      1091. Shortest Path in Binary Matrix
     </text>
   
 
@@ -65,7 +65,7 @@
         font-size="12"
         fill="#8b949e"
         font-family="Inter, system-ui, -apple-system, Helvetica Neue, Arial, sans-serif">
-    Updated 2026-04-19 12:57 UTC
+    Updated 2026-04-20 02:29 UTC
   </text>
 
 </svg>
