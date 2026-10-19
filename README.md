@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/henryng15/henryng15/main/banner.svg" width="100%" alt="Henry - Software Engineer and Data Scientist banner" />
+  <img src="https://raw.githubusercontent.com/henryng15/henryng15/main/banner.svg" width="100%" alt="Henry - Software Engineer banner" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=32&duration=2200&pause=700&color=F6B23A&center=true&vCenter=true&width=740&height=60&lines=Hi%2C+I'm+Henry+%E2%9B%8F;Software+Engineer+%C2%B7+Data+Science;Machine+Learning+%C2%B7+Full-Stack+Web;AI+Applications)](https://github.com/henryng15)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=32&duration=2200&pause=700&color=F6B23A&center=true&vCenter=true&width=740&height=60&lines=Hi%2C+I'm+Henry+%E2%9B%8F;Software+Engineer;Machine+Learning+%C2%B7+Full-Stack+Web;AI+Applications)](https://github.com/henryng15)
 
 # Henry
 
-**&lt;SWE /&gt; &amp; &lt;Data /&gt;**<br>
+**&lt;SWE /&gt;**<br>
 Mathematics &amp; Computer Science @ Kenyon College
 
 [![Website](https://img.shields.io/badge/Website-hoanng.netlify.app-F6B23A?style=for-the-badge&logo=netlify&logoColor=0A1A30&labelColor=0A1A30)](https://hoanng.netlify.app/)
@@ -26,11 +26,11 @@ Mathematics &amp; Computer Science @ Kenyon College
 
 <img src="https://raw.githubusercontent.com/henryng15/henryng15/main/assets/quote.svg" width="100%" alt="Success isn't the treasure you find - it's the wizard you become chasing it." />
 
-Mathematics &amp; Computer Science student at Kenyon College who builds data science and software
-systems - from ML pipelines and LLM tooling to production full-stack apps.
+Mathematics &amp; Computer Science student at Kenyon College who builds software systems -
+from ML pipelines and LLM tooling to production full-stack apps.
 
 ```python
-class Henry(SoftwareEngineer, DataScientist):
+class Henry(SoftwareEngineer):
     def __init__(self):
         self.education = "Kenyon College"
         self.major     = "Math & Computer Science"
@@ -145,10 +145,6 @@ The kit I've collected along the way.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
-
-<img src="https://raw.githubusercontent.com/henryng15/henryng15/main/assets/h-contributions.svg" height="44" alt="Contributions" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=henryng15&bg_color=0A1A30&color=E6F0FB&line=43C9FF&point=F6B23A&area=true&area_color=1C4472&title_color=F6B23A&hide_border=true" width="100%" alt="Contribution activity graph for henryng15" />
 
 <img src="https://raw.githubusercontent.com/henryng15/henryng15/main/assets/h-connect.svg" height="44" alt="Connect" />
 
